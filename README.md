@@ -5,6 +5,6 @@ A [MantisBT](http://www.mantisbt.org/) plugin to open attachments using [Lightbo
 
 
 # Setup
-* The `master` branch requires Mantis 2.0.x, while the `master-1.2.x` branch works for Mantis 1.2.x.
+* Updated the plugin to work with MantisBT v2.28.x.
 * Extract this repo to your *Mantis folder/plugins/Lightbox*.
 * Enjoy!
